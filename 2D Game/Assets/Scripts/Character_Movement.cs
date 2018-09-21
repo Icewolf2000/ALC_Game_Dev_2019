@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class Character_Movement : MonoBehaviour {
 
 	// Player Movement Variables
 	public int MoveSpeed;
@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+
 	}
 	
 	void FixedUpdate () {
