@@ -10,8 +10,8 @@ public class LevelManager : MonoBehaviour {
 	public GameObject PC2;
 
 	// Particles
-	public GameObject DeathParticle;
-	public GameObject RespawnParticle;
+	public GameObject Death_PS;
+	public GameObject Respawn_PS;
 
 	// Respawn Delay
 	public float RespawnDelay;
@@ -34,7 +34,7 @@ public class LevelManager : MonoBehaviour {
 
 	public IEnumerator RespawnPlayerCo(){
 		//Generate Death Particle
-		Instantiate (DeathParticle, PC.transform.position, PC.transform.rotation);
+		Instantiate (Death_PS, PC.transform.position, PC.transform.rotation);
 		//Hide PC
 		// PC.enabled = false;
 		PC2.SetActive(false);
@@ -58,6 +58,6 @@ public class LevelManager : MonoBehaviour {
 		PC2.SetActive(true);
 		PC.GetComponent<Renderer> ().enabled = true;
 		//Spawn PC
-		Instantiate (RespawnParticle, CurrentCheckPoint.transform.position, CurrentCheckPoint.transform.rotation);
+		Instantiate (Respawn_PS, CurrentCheckPoint.transform.position, CurrentCheckPoint.transform.rotation);
 	}
 }
