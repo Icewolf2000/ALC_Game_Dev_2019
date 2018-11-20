@@ -16,7 +16,7 @@ public class Projectile : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		PC = GameObject.Find("PC)");
+		PC = GameObject.Find("PC");
 
 		EnemyDeath = Resources.Load("Prefabs/Death_PS") as GameObject;
 		
