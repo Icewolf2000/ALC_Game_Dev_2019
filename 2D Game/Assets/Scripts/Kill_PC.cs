@@ -7,7 +7,7 @@ public class Kill_PC : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		LevelManager = FindObjectOfType<LevelManager>();
+		LevelManager = FindObjectOfType <LevelManager>();
 	
 	}
 	

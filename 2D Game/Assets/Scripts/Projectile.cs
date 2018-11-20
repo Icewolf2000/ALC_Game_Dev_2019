@@ -28,6 +28,7 @@ public class Projectile : MonoBehaviour {
 
 		// Destroys Projectile after X seconds
 		Destroy(gameObject,TimeOut);
+
 	}
 	
 	// Update is called once per frame
