@@ -458,6 +458,24 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1421976164406530, guid: 03cfd20bfebcf433b881fba18bc91b91,
     type: 2}
   m_PrefabInternal: {fileID: 939988519}
+--- !u!95 &123898053
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 123898052}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &154794471
 GameObject:
   m_ObjectHideFlags: 0
@@ -4394,8 +4412,7 @@ Prefab:
     - target: {fileID: 1348751911189004, guid: 03cfd20bfebcf433b881fba18bc91b91, type: 2}
       propertyPath: m_Icon
       value: 
-      objectReference: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000,
-        type: 0}
+      objectReference: {fileID: 0}
     - target: {fileID: 4065520416215504, guid: 03cfd20bfebcf433b881fba18bc91b91, type: 2}
       propertyPath: m_LocalPosition.x
       value: 4.3
