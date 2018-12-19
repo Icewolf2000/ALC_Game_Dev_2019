@@ -1,0 +1,1695 @@
+fileFormatVersion: 2
+guid: 675d9e0f4a1fb4a93a0ffccb781031d9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Copper Coin Animation 1_0
+    21300002: Copper Coin Animation 1_1
+    21300004: Copper Coin Animation 1_2
+    21300006: Copper Coin Animation 1_3
+    21300008: Copper Coin Animation 1_4
+    21300010: Copper Coin Animation 1_5
+    21300012: Copper Coin Animation 1_6
+    21300014: Copper Coin Animation 1_7
+    21300016: Copper Coin Animation 1_8
+    21300018: Copper Coin Animation 1_9
+    21300020: Copper Coin Animation 1_10
+    21300022: Copper Coin Animation 1_11
+    21300024: Copper Coin Animation 1_12
+    21300026: Copper Coin Animation 1_13
+    21300028: Copper Coin Animation 1_14
+    21300030: Copper Coin Animation 1_15
+    21300032: Copper Coin Animation 1_16
+    21300034: Copper Coin Animation 1_17
+    21300036: Copper Coin Animation 1_18
+    21300038: Copper Coin Animation 1_19
+    21300040: Copper Coin Animation 1_20
+    21300042: Copper Coin Animation 1_21
+    21300044: Copper Coin Animation 1_22
+    21300046: Copper Coin Animation 1_23
+    21300048: Copper Coin Animation 1_24
+    21300050: Copper Coin Animation 1_25
+    21300052: Copper Coin Animation 1_26
+    21300054: Copper Coin Animation 1_27
+    21300056: Copper Coin Animation 1_28
+    21300058: Copper Coin Animation 1_29
+    21300060: Copper Coin Animation 1_30
+    21300062: Copper Coin Animation 1_31
+    21300064: Copper Coin Animation 1_32
+    21300066: Copper Coin Animation 1_33
+    21300068: Copper Coin Animation 1_34
+    21300070: Copper Coin Animation 1_35
+    21300072: Copper Coin Animation 1_36
+    21300074: Copper Coin Animation 1_37
+    21300076: Copper Coin Animation 1_38
+    21300078: Copper Coin Animation 1_39
+    21300080: Copper Coin Animation 1_40
+    21300082: Copper Coin Animation 1_41
+    21300084: Copper Coin Animation 1_42
+    21300086: Copper Coin Animation 1_43
+    21300088: Copper Coin Animation 1_44
+    21300090: Copper Coin Animation 1_45
+    21300092: Copper Coin Animation 1_46
+    21300094: Copper Coin Animation 1_47
+    21300096: Copper Coin Animation 1_48
+    21300098: Copper Coin Animation 1_49
+    21300100: Copper Coin Animation 1_50
+    21300102: Copper Coin Animation 1_51
+    21300104: Copper Coin Animation 1_52
+    21300106: Copper Coin Animation 1_53
+    21300108: Copper Coin Animation 1_54
+    21300110: Copper Coin Animation 1_55
+    21300112: Copper Coin Animation 1_56
+    21300114: Copper Coin Animation 1_57
+    21300116: Copper Coin Animation 1_58
+    21300118: Copper Coin Animation 1_59
+    21300120: Copper Coin Animation 1_60
+    21300122: Copper Coin Animation 1_61
+    21300124: Copper Coin Animation 1_62
+    21300126: Copper Coin Animation 1_63
+    21300128: Copper Coin Animation 1_64
+    21300130: Copper Coin Animation 1_65
+    21300132: Copper Coin Animation 1_66
+    21300134: Copper Coin Animation 1_67
+    21300136: Copper Coin Animation 1_68
+    21300138: Copper Coin Animation 1_69
+    21300140: Copper Coin Animation 1_70
+    21300142: Copper Coin Animation 1_71
+    21300144: Copper Coin Animation 1_72
+    21300146: Copper Coin Animation 1_73
+    21300148: Copper Coin Animation 1_74
+    21300150: Copper Coin Animation 1_75
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8377
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4265de213b444b60beabb7fd70be806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_1
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 8377
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c16d19dedc56443fbfcd258d0a45e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_2
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 8377
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c61093acf4431386c42fb390c4527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_3
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 8377
+        width: 616
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06766a3365d4d2fad7cedd6a439e9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_4
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 8377
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9677289a8541e39d68663dfb255e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_5
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 8377
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a515a5201084aff94457c3ffeed686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_6
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 8377
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c49d95878b4203b2222febd81f48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_7
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 8377
+        width: 625
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dff54b8ede54f84ace79edb98faaf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_8
+      rect:
+        serializedVersion: 2
+        x: 8404
+        y: 8377
+        width: 625
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b52a4a2577a471190e7ebec0657899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7355
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeaf5c9e2aa84f09b78481b945c7347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_10
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 7355
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927da1138ec6a4366bf8b331a587fb60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_11
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 7355
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4132f37b95849279f84677bc517be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_12
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 7355
+        width: 616
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9085e831bdc04c1b837889c45284cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_13
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 7355
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f5dd887fd24626a361cd281b9b9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_14
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 7355
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5546595b3148eaaecd0e471d6a32e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_15
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 7355
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcf8dc735094d7a8fa7a4cd35a251f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_16
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 7355
+        width: 625
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3194daa48f4b82ae966d427268f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_17
+      rect:
+        serializedVersion: 2
+        x: 8404
+        y: 7355
+        width: 625
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a019c436f44454789aa262dae934e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6329
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20b928449e64b40b783447e7622301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_19
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 6329
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019a11e55eeb47acb9956e365d77c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_20
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 6329
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffac760e2e6e406187a7ef7c62c8658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_21
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 6329
+        width: 616
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47cf34267c8b43748905d32e68141f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_22
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 6329
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5045e2b77fbc41abaec6334feea37b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_23
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 6329
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4315a4c8ecf4acf8a5eb9a8170107d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_24
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 6329
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef9068fed754b809a6a1b378fa6474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_25
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 6329
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0c80ae48e3445ca27da22bbc2012f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_26
+      rect:
+        serializedVersion: 2
+        x: 8405
+        y: 6329
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f7b2e0affe4624a1b40be74cd41af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5308
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ab6848becd4fd3844d567d0ef78a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_28
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5308
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea944cdbf50d41c2b8fb75f69671180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_29
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 5308
+        width: 621
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9867306cdf4cea951333bc606f7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_30
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 5308
+        width: 616
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2de7f35b344728adbabfdf342b896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_31
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 5308
+        width: 621
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d67d38f4875241d1bd0585e9fd32575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_32
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 5308
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9b1ad1ad9c4f519a27b2b6fd945ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_33
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 5308
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63977b69d7bc4d4581ae8b476825c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_34
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 5308
+        width: 620
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a7ced5d6f84d57bfadf85be04a750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_35
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 5308
+        width: 620
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f4608451f64ce8a13e5aa99b76f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4282
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c98785218d4c82a3f19747cf55261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_37
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4282
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d41b3d0a068496c941bbbd781686c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_38
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 4282
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853c1e6171ad4cae92b60cd4c739d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_39
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 4282
+        width: 616
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345bbb0329c04561a99d55e0e3ab5bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_40
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 4282
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de88ebaa6c14850815fc38a539b812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_41
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 4282
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3285f3e18114fe8a23a2657cff4c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_42
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 4282
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42002dd0f7d648bd84aaca8694af860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_43
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 4282
+        width: 620
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3201ee1e70c9e41d191c3a2403b55f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_44
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 4282
+        width: 620
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870493696572477b962688b9d5536c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6e766c09d74dfcbfc81bb9b0e47ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_46
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3260
+        width: 617
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e55336312394b968480a5cdb1d2d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_47
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df93db205cce417fb7855e6a0e747d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_48
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3260
+        width: 616
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49856c8dd2541c3b125ee341ee4c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_49
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a921e22925444a2e9ff6f2c8828cd52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_50
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 3260
+        width: 617
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d8f29e56b340a4bd3f6bd0dfb17bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_51
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040d51e7dd4f4361acadc69a0108b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_52
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f933ed5e8fbb4f7a881b19567986d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_53
+      rect:
+        serializedVersion: 2
+        x: 8408
+        y: 3260
+        width: 621
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e411c41234ca449d80d347f65edf4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2234
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af3344c31bc4846806ffb54fe6f618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_55
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2234
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69f94cacc4a491699736cba21d4399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_56
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 2234
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72759c34a3c84520aacde33cbf2d447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_57
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2231
+        width: 616
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda9705ed1f343e09fc4d215153c107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_58
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 2234
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a8ecdd08104787877c7363bf09290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_59
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 2234
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ce8fc2b80c4e4fb251ee171fbac60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_60
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 2234
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87de85d83c743eebb4579d1a11b790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_61
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 2234
+        width: 620
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9cdc2f2a8c4b63af1b6f7659eb8d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_62
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 2234
+        width: 620
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e53320db92485ca9e732afef14090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1204
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7722f92d631f94fdc92a5235d718dd9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_64
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1208
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e19f324e544b12a531854d0b1cfd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_65
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1205
+        width: 621
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7b9b9aeb9c84eb99c041c20e18eb1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_66
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1209
+        width: 616
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184aa45eb656475395e7629621e6e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_67
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1205
+        width: 621
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b13d921081c4c039fff30fb3dcaed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_68
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 1208
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b9c0e64e6d4349b06381b668425ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_69
+      rect:
+        serializedVersion: 2
+        x: 6361
+        y: 1204
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d16e6491104507b59b4629652fc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_70
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 1209
+        width: 620
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd21de4a74543de9cf1b3fe889c1a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_71
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 1209
+        width: 620
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd88974e8eb4044acb6d1e282a0fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 187
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e7b1e2bd4541959bc26dd19426dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_73
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 187
+        width: 617
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c364c09439074e2bbf380cd7d6525b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_74
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 187
+        width: 621
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ffda5d9799e4bd389ae7a84d555c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin Animation 1_75
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 187
+        width: 616
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5929aadfc63c4b72b885f838824410d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f988eb63d9fce4b21a892356da6b9d6e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

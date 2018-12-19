@@ -36,17 +36,24 @@ public class Character_Movement : MonoBehaviour {
 		//Code makes charater jump
 		if(Input.GetKeyDown (KeyCode.W)&& grounded){
 			Jump();
+			animator.SetBool("isJumping",true);
+		}
+		else if (Input.GetKeyUp (KeyCode.W)){
+			animator.SetBool("isJumping",false);
 		}
 
 		//Double Jump Code
-		if(grounded)
+		if(grounded){
 			doubleJump = false;
 			animator.SetBool("isJumping",false);
+		}
+			
 
 		if(Input.GetKeyDown (KeyCode.W)&& !doubleJump && !grounded){
 			Jump();
 			doubleJump = true;
 		}
+		
 		//Non-Slide Player
 		moveVelocity = 0f;
 
@@ -56,7 +63,7 @@ public class Character_Movement : MonoBehaviour {
 			moveVelocity = MoveSpeed;
 			animator.SetBool("isWalking",true);
 		}
-		else if (Input.GetKey (KeyCode.D)){
+		else if (Input.GetKeyUp (KeyCode.D)){
 			animator.SetBool("isWalking",false);
 		}
 
@@ -65,7 +72,7 @@ public class Character_Movement : MonoBehaviour {
 			moveVelocity = -MoveSpeed;
 			animator.SetBool("isWalking",true);
 		}
-		else if (Input.GetKey (KeyCode.A)){
+		else if (Input.GetKeyUp (KeyCode.A)){
 			animator.SetBool("isWalking",false);
 		}
 
